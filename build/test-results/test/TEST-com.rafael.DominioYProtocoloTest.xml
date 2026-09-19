@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rafael.DominioYProtocoloTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-19T00:21:09.162Z" hostname="LENOVO_RAFAEL" time="0.012">
+  <properties/>
+  <testcase name="parseaResultadoYErrores()" classname="com.rafael.DominioYProtocoloTest" time="0.003"/>
+  <testcase name="validaValores()" classname="com.rafael.DominioYProtocoloTest" time="0.002"/>
+  <testcase name="transformaComandos()" classname="com.rafael.DominioYProtocoloTest" time="0.001"/>
+  <testcase name="validaIntegridadDelResultado()" classname="com.rafael.DominioYProtocoloTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
